@@ -2,11 +2,9 @@ Hi 👋, I'm Nyakinyua
 Full-stack web developer who loves developing and learning.
 I love building apps with APIs and MERN stack.
 
-🌱 I’m currently learning Web3, ExpressJs, MongoDB and ReactJs to Complete MERN Stack Development
+🌱 I’m currently learning REACT, ExpressJs, MongoDB and ReactJs to Complete MERN Stack Development
 
-👨‍💻 Check my LinkedIn Profile at [LinkedIn](#https://www.linkedin.com/in/joyce-nyakinyua-wanjiru/)
-
-We're providing services at affordable prices. For more info, visit our gigaweb
+👨‍💻 Check my LinkedIn Profile at [LinkedIn](#www.linkedin.com/in/joyce-nyakinyua-wanjiru/)
 
 </> Get Web Development Resources for free in Notion Page
 
