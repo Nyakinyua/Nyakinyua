@@ -1,18 +1,20 @@
-Hi 👋, I'm Nyakinyua
-Full-stack web developer who loves developing and learning.
-I love building apps with APIs and MERN stack.
+    Hi 👋, I'm Nyakinyua
 
-🌱 I’m currently learning REACT, ExpressJs, MongoDB and ReactJs to Complete MERN Stack Development
+    Full-stack web developer who loves developing and learning.
 
-👨‍💻 Check my LinkedIn Profile at [LinkedIn](#www.linkedin.com/in/joyce-nyakinyua-wanjiru/)
+    <3 I love building apps with APIs and MERN stack.
 
-</> Get Web Development Resources for free in Notion Page
+    🌱 I’m currently learning REACT, ExpressJs, MongoDB and ReactJs to Complete MERN Stack Development
 
-🌈 Download My Resume : [Resume](#https://docs.google.com/document/d/1A9wIoEa56WFZYq3bPtktwAMYwzzYuY-0IxLqBhOxvKU/edit)
+    👨‍💻 Check my LinkedIn Profile at [LinkedIn](#www.linkedin.com/in/joyce-nyakinyua-wanjiru/)
 
-💬 Ask me about AL
+    </> Get Web Development Resources for free in Notion Page
 
-📫 Reach me [Mail](#jnyakinyua.12@gmail.com)
+    🌈 Download My Resume : [Resume](#docs.google.com/document/d/1A9wIoEa56WFZYq3bPtktwAMYwzzYuY-0IxLqBhOxvKU/edit)
+
+    💬 Ask me about AL
+
+    📫 Reach me [Mail](#jnyakinyua.12@gmail.com)
 
 
 
