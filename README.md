@@ -10,7 +10,7 @@ Full-stack web developer who loves developing and learning.
 
 </> Get Web Development Resources for free in Notion Page
 
-🌈 Download My Resume : [Resume](#docs.google.com/document/d/1A9wIoEa56WFZYq3bPtktwAMYwzzYuY-0IxLqBhOxvKU/edit)
+🌈 Download My Resume : [Resume](#docs.google.com/document/d/1A9wIoa56WFZ/)
 
 💬 Ask me about AL
 
